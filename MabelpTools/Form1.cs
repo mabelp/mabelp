@@ -45,8 +45,8 @@ namespace MabelpTools
             else if (ProtobufType.Text == "CheckHotel")
                 SetProBufReturn<List<CheckHotel>>();
             else
-            { 
-            
+            {
+                string CC = "bbb";
             }
         }
 

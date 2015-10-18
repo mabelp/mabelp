@@ -16,3 +16,6 @@ d:\users\jfpeng\documents\visual studio 2013\Projects\MabelpTools\MabelpTools\bi
 D:\Users\jfpeng\Documents\Visual Studio 2013\Projects\MabelpTools\MabelpTools\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
 D:\Users\jfpeng\Documents\Visual Studio 2013\Projects\MabelpTools\MabelpTools\bin\Debug\protobuf-net.dll
 D:\Users\jfpeng\Documents\Visual Studio 2013\Projects\MabelpTools\MabelpTools\bin\Debug\DIY.Product.ShoppingService.Contract.dll
+F:\GitHub\mabelp\MabelpTools\bin\Debug\MabelpTools.exe.config
+F:\GitHub\mabelp\MabelpTools\obj\Debug\MabelpTools.exe
+F:\GitHub\mabelp\MabelpTools\obj\Debug\MabelpTools.pdb
